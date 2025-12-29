@@ -182,4 +182,4 @@ This project is licensed under the **MIT License** – see the LICENSE file for 
 
 ---
 
-Empowering agriculture with data-driven insights for smarter and sustainable crop yield decisions.
+**Empowering agriculture with data-driven insights for smarter and sustainable crop yield decisions.**
